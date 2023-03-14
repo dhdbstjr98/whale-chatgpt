@@ -1,7 +1,7 @@
 {
   "name": "ChatGPT",
   "version": "1.0",
-  "manifest_version": 2,
+  "manifest_version": 3,
   "description":"ChatGPT 웨일 사이드바 확장앱",
   "sidebar_action": {
     "default_page": "public/index.html",
